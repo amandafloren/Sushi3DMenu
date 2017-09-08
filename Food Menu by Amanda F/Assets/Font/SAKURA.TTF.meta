@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0770404fc89c2a64b97b97d28cb61bac
+timeCreated: 1489657702
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SAKURAalp
+  fontNames:
+  - SAKURAalp
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
